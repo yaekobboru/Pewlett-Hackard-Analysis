@@ -17,4 +17,5 @@
  Engineers, and Staffs.  There are around 60,000 senior employees out of the total 90,000 employees who are ready to mentor the 
  next generations. We need Department_Title table that shows the aggregate values of employees by department and roles to analyze
  the retirement status for each department.
+ ![Dept_title_table](https://user-images.githubusercontent.com/86446609/128528926-e094739e-dba5-48b2-b00c-6b9e972bf644.JPG)
  
