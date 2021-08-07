@@ -20,5 +20,8 @@
  3. Department_Title table should be created to aggregate values of employees by department and roles to analyze the retirement 
  status for each department and 
  ![Dept_title_table](https://user-images.githubusercontent.com/86446609/128528926-e094739e-dba5-48b2-b00c-6b9e972bf644.JPG)
+ 
  4. Gender_Title table should be created to consider gender ratio imbalances.
+ 
+ 
  ![Title_Gender](https://user-images.githubusercontent.com/86446609/128615928-fe66a749-ec7d-47d1-bfd6-7c37afd04cf3.JPG)
